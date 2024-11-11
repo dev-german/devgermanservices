@@ -1,4 +1,4 @@
-package notification;
+package com.devgerman.notification;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

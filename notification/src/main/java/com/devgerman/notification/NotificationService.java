@@ -1,4 +1,4 @@
-package notification;
+package com.devgerman.notification;
 
 import com.devgerman.clients.notification.NotificationRequest;
 import org.springframework.stereotype.Service;

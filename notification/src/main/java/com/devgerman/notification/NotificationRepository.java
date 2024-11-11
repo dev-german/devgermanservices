@@ -1,4 +1,4 @@
-package notification;
+package com.devgerman.notification;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

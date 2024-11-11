@@ -1,4 +1,4 @@
-package notification;
+package com.devgerman.notification;
 
 import com.devgerman.clients.notification.NotificationRequest;
 import lombok.extern.slf4j.Slf4j;
